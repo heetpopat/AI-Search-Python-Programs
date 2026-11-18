@@ -1,5 +1,5 @@
-#Name: Vishvrajsinh zala
-#Eno : 92600584082
+#Name: Heet Popat
+#Eno : 92600584084
 #2. Implement Breadth First Search (for Water Jug problem)
 
 CAP_A = 4
